@@ -1,7 +1,7 @@
 # Goals
 
 - Build a simple neural network with only one hidden layer to expose how it works
-- Use simple array to represent the internal state: double[] (make it easier to migrate to another languages)
+- Use simple array to represent the internal state: double[] (make it easier to migrate to other languages)
 - All in one file (about 200 lines)
 
 # Possible improvements
