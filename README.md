@@ -12,9 +12,13 @@
 - Possibility to add softmax layer at the end
 - More layers
 - Loop unrolling
+- Save / Load network
 
 # Dataset
 I'm using the [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
 # Copyright and license
 Code released under the MIT license.
+
+The neural network is a modified version of https://github.com/trentsartain/Neural-Network
+(MIT LICENSE)
