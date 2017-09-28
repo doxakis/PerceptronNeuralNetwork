@@ -21,4 +21,4 @@ I'm using the [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_d
 Code released under the MIT license.
 
 The neural network is a modified version of https://github.com/trentsartain/Neural-Network
-(MIT LICENSE)
+(MIT license)
